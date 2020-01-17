@@ -1,5 +1,4 @@
 backend:
-  name: github
   name: git-gateway
   branch: master
   site_domain: modest-galileo-3fa643.netlify.com
