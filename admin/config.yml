@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: sumeetbajra/sumeetbajra.github.io
+  repo: /oussamabaic/oussama.io
   branch: master
-  site_domain: suspicious-wing-db03ca.netlify.com
+  site_domain: modest-galileo-3fa643.netlify.com
 media_folder: "img/"
 collections:
   - name: "blog" # Used in routes, e.g. /admin/collections/blog
