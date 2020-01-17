@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: /oussamabaic/oussama.io
+  repo: oussamabaic/oussama.io
   branch: master
   site_domain: modest-galileo-3fa643.netlify.com
 media_folder: "img/"
